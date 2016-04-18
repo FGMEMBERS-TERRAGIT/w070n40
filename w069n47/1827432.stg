@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -68.866111 47.6625 18.55 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -68.848333 47.625 232.39 180
+OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml -68.86248 47.66854 162.22 0
+OBJECT_SHARED Models/Residential/suburban-area.xml -68.88411 47.68313 142.6 0

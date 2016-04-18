@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -65.476111 45.8475 108.49 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -65.418889 45.755556 -67.6 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -65.339167 45.806389 57.29 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -65.420278 45.755833 -389.94 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -65.422222 45.754722 -366.55 180
