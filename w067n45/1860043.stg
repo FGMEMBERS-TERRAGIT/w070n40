@@ -3,4 +3,6 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -66.180556 45.164167 -103.3
 OBJECT_SHARED Models/Communications/radio-medium.xml -66.171667 45.2 -75.49 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -66.103611 45.231944 -117.7 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -66.201667 45.153333 -317.12 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -66.23739 45.1436593 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -66.053847 45.2391619 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -66.0433 45.215 -0.93 161.94
