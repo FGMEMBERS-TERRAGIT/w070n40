@@ -1,3 +1,10 @@
 OBJECT_SHARED Models/Airport/ils.xml -66.537201 45.87421 15.56 228.85
 OBJECT_SHARED Models/Communications/vordme_1.xml -66.547778 45.863056 18.74 180
 OBJECT_SHARED Models/Airport/localizer.xml -66.517639 45.861179 11.47 221.15
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office65x50.ac -66.52979 45.87404 15.32 230.444
+OBJECT_SHARED Models/lib/MedHangar.ac -66.53189 45.87496 14.45 53.6394
+OBJECT_SHARED Models/lib/MedHangar.ac -66.53149 45.87402 15.67 49.0867
+# END dsf2stg

@@ -6,3 +6,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -60.143889 46.134444 -30.11
 OBJECT_SHARED Models/Communications/radio-medium.xml -60.056667 46.161944 -108.6 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -60.0559 46.1534 67.28 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -60.037222 46.235556 -344.29 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -60.04676 46.16764 57.34 134.013
+OBJECT_SHARED Models/lib/MedHangar.ac -60.05139 46.16624 59.68 156.369
+OBJECT_SHARED Models/lib/MedHangar.ac -60.05043 46.16581 59.53 67.5582
+OBJECT_SHARED Models/lib/SmHangar.ac -60.05086 46.16596 59.61 64.9799
+# END dsf2stg
