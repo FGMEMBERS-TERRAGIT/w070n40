@@ -112,3 +112,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -69.505812 44.555643 76.22 283.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -69.500342 44.539066 72.09 283.23
 OBJECT_STATIC lafleurmain.xml -69.680057 44.533503 90.98 120
 OBJECT_STATIC lfhangar.xml -69.682803 44.532409 89.52 120
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/2container-office.ac -69.62179 44.60072 0.00 167.05
+OBJECT_SHARED Models/lib/4container-office.ac -69.62142 44.59994 89.64 24.96
+OBJECT_SHARED Models/lib/shed10x50.ac -69.62278 44.59904 86.96 161.38
+# END dsf2stg
